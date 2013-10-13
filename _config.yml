@@ -17,12 +17,12 @@ topbar:
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : JB
+title : iNVAiN
 author :
-  name : Jade Dominguez
-  email : plusjade@gmail.com
-  github : plusjade
-  twitter : plusjade
+  name : ZhongXun
+  email : kkzxak47@gmail.com
+  github : kkzxak47
+  twitter : kkzxak47
   feedburner : nil
 
 # The production_url is only used when full-domain names are needed
