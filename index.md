@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ZhongXun's
-tagline: place to speak mind
+tagline: place to speak his mind
 ---
 {% include JB/setup %}
 
