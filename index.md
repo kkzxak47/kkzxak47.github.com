@@ -5,7 +5,7 @@ tagline: place to speak mind
 ---
 {% include JB/setup %}
 
-<h2>Posts List:</h2>
+<h3>Post List:</h3>
 
 <ul class="posts">
   {% for post in site.posts %}
