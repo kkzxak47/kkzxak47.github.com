@@ -85,7 +85,7 @@ in the same expresion.
  
 An important exception to the second rule occurs when the subexpression
 that changes the operand is itself the operand of another subexpression. For
-example, in *++iter, the increment changes the value of iter. The (now
+example, in * ++iter, the increment changes the value of iter. The (now
 changed) value of iter is the operand to the dereference operator. In this
 (and similar) expressions, order of evaluation isn’t an issue. The increment
 (i.e., the subexpression that changes the operand) must be evaluated before
