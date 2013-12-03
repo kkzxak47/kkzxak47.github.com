@@ -2,7 +2,7 @@
 layout: post
 title: "Don't forget the quote marks"
 description: ""
-category: "Programming"
+category: "JavaWeb"
 tags: [Java]
 ---
 {% include JB/setup %}
