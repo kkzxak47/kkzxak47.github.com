@@ -7,7 +7,7 @@ tags: [Java]
 ---
 {% include JB/setup %}
 a mistake in jsp file
-<a href="http://www.flickr.com/photos/93245223@N04/11183115155/" title="Flickr ÉÏ __invain µÄ Snap2"><img src="http://farm4.staticflickr.com/3675/11183115155_bc54006fbe.jpg" width="402" height="25" alt="Snap2"></a>
+<a href="http://www.flickr.com/photos/93245223@N04/11183115155/" title="Flickr ä¸Š __invain çš„ Snap2"><img src="http://farm4.staticflickr.com/3675/11183115155_bc54006fbe.jpg" width="402" height="25" alt="Snap2"></a>
 results in the error page in browser
-<a href="http://www.flickr.com/photos/93245223@N04/11183285403/" title="Flickr ÉÏ __invain µÄ Snap1"><img src="http://farm8.staticflickr.com/7352/11183285403_72da3f1608.jpg" width="500" height="415" alt="Snap1"></a>
+<a href="http://www.flickr.com/photos/93245223@N04/11183285403/" title="Flickr ä¸Š __invain çš„ Snap1"><img src="http://farm8.staticflickr.com/7352/11183285403_72da3f1608.jpg" width="500" height="415" alt="Snap1"></a>
 <h1>REMEMBER TO PUT THE 'SESSION' IN QUOTES</h1>
