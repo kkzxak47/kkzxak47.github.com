@@ -6,7 +6,7 @@ category: "Java"
 tags: [BeanUtils]
 ---
 {% include JB/setup %}
-####This is odd.
+#### This is odd.
 If you want to convert a String to a Date, and write the code like
 ```
     ConvertUtils.register(dateConverter, Date.class);
