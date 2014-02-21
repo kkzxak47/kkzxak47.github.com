@@ -1,5 +1,7 @@
 encoding: utf-8
-
+markdown: rdiscount
+safe: true
+# paginate: 10
 favicon: images/favicon.ico
 # This is the default format. 
 # For more see: http://jekyllrb.com/docs/permalinks/
