@@ -8,7 +8,8 @@ tags: [Java, Nutch]
 {% include JB/setup %}
 
 If you find this:
-```0/0 spinwaiting/active, 0 pages, 0 errors, 0.0 0 pages/s, 0 0 kb/s, 0 URLs
+```html
+0/0 spinwaiting/active, 0 pages, 0 errors, 0.0 0 pages/s, 0 0 kb/s, 0 URLs
 in 0 queues
 -activeThreads=0
 FetcherJob: done
@@ -16,7 +17,8 @@ FetcherJob: done
 
 I believe your nutch is not set properly.
 You need to edit "{NUTCH_HOME}/runtime/local/conf/nutch-site.xml", add the following property between &lt;configuration&gt; and &lt;/configuration&gt;.
-```<property>
+```xml
+<property>
   <name>http.content.limit</name>
   <value>-1</value>
   <description>The length limit for downloaded content using the http
@@ -28,7 +30,8 @@ You need to edit "{NUTCH_HOME}/runtime/local/conf/nutch-site.xml", add the follo
 ```
 
 Alternatively you can add this one, the description explains why.
-```<property>
+```xml
+<property>
   <name>parser.skip.truncated</name>
   <value>false</value>
   <description>Boolean value for whether we should skip parsing for truncated documents. By default this 
