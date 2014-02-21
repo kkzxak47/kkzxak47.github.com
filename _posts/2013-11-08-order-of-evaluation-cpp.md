@@ -3,7 +3,7 @@ layout: post
 title: "Cpp - Order of Evaluation"
 description: ""
 category: "cpp"
-tags: []
+tags: [programming, c++]
 ---
 {% include JB/setup %}
 ## from C++ Primer, Fifth Edition, page 193

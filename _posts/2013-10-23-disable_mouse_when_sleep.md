@@ -3,7 +3,7 @@ layout: post
 title: "禁用鼠标唤醒Windows功能"
 description: ""
 category: "windows"
-tags: []
+tags: [技巧]
 ---
 {% include JB/setup %}
 

@@ -2,8 +2,8 @@
 layout: post
 title: "sublime text2 shortcut for exchanging 2 lines"
 description: ""
-category: "programming"
-tags: [sublime text]
+category: "software"
+tags: [sublime text, coding, shortcut]
 ---
 {% include JB/setup %}
 A lot of blogs say that the shortcut for exchanging 2 adjacent lines is "ctrl+alt+↑", that's not true, this combination can let you edit several lines at the same time. 

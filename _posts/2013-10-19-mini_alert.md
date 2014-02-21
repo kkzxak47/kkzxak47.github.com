@@ -3,7 +3,7 @@ layout: post
 title: "迷你定时提醒：一款好用的定时提醒软件"
 description: ""
 category: "windows"
-tags: [software]
+tags: [software, timing]
 ---
 {% include JB/setup %}
 # 迷你定时提醒 MiniAlert

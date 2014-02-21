@@ -2,8 +2,8 @@
 layout: post
 title: "Don't forget the quote marks"
 description: ""
-category: "JavaWeb"
-tags: [Java]
+category: "Java"
+tags: [coding]
 ---
 {% include JB/setup %}
 a mistake in jsp file<br>
