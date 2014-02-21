@@ -8,8 +8,8 @@ tags: [Java, Nutch]
 {% include JB/setup %}
 
 If you find this:
-
-```log
+{
+```
 0/0 spinwaiting/active, 0 pages, 0 errors, 0.0 0 pages/s, 0 0 kb/s, 0 URLs
 in 0 queues
 -activeThreads=0
@@ -20,7 +20,7 @@ I believe your nutch is not set properly.
 
 You need to edit "{NUTCH_HOME}/runtime/local/conf/nutch-site.xml", add the following property between &lt;configuration&gt; and &lt;/configuration&gt;.
 
-```xml
+```XML
 <property>
   <name>http.content.limit</name>
   <value>-1</value>
@@ -34,7 +34,7 @@ You need to edit "{NUTCH_HOME}/runtime/local/conf/nutch-site.xml", add the follo
 
 Alternatively you can add this one, the description explains why.
 
-```xml
+```XML
 <property>
   <name>parser.skip.truncated</name>
   <value>false</value>
