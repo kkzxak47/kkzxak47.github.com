@@ -16,7 +16,7 @@ FetcherJob: done
 {% endhighlight %}
 
 I believe your nutch is not set properly.
-You need to edit "{NUTCH_HOME}/runtime/local/conf/nutch-site.xml", add the following property between <configuration> and </configuration>.
+You need to edit "{NUTCH_HOME}/runtime/local/conf/nutch-site.xml", add the following property between &lt;configuration&gt; and &lt;/configuration&gt;.
 {% highlight ruby %}
 <property>
   <name>http.content.limit</name>
