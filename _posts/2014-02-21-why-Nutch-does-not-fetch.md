@@ -9,7 +9,7 @@ tags: [Java, Nutch]
 
 If you find this:
 
-```html
+```log
 0/0 spinwaiting/active, 0 pages, 0 errors, 0.0 0 pages/s, 0 0 kb/s, 0 URLs
 in 0 queues
 -activeThreads=0

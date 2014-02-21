@@ -15,7 +15,7 @@ ConvertUtils.register(dateConverter, Date.class);
 
 console would give you this warning
 
-```java
+```log
 一月 18, 2014 8:39:22 上午 org.apache.commons.beanutils.converters.DateConverter toDate
 警告:     DateConverter does not support default String to 'Date' conversion.
 一月 18, 2014 8:39:22 上午 org.apache.commons.beanutils.converters.DateConverter toDate
