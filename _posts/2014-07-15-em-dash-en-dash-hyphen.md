@@ -7,7 +7,6 @@ tags: [English, punctuation]
 ---
 {% include JB/setup %}
 
-via [StackExchange](http://english.stackexchange.com/questions/2116/when-should-i-use-an-em-dash-an-en-dash-and-a-hyphen)
 
 An **em-dash** is typically used to act as a comma or parenthesis to separate out phrases—or even just a word—in a sentence for various reasons (i.e. an appositive). Examples where an em-dash should be used:
 
@@ -35,3 +34,6 @@ Finally, a **minus sign** is distinct from all three of the above.
 * 4 − 2 = 2.
 
 If you want to use the correct dash or hyphen in StackExchange comments, just use the appropriate HTML entity: `&mdash;` for em-dash, `&ndash;` for en-dash, and `&minus;` for the minus sign. The hyphen is, of course, on directly your keyboard.
+
+
+via [StackExchange](http://english.stackexchange.com/questions/2116/when-should-i-use-an-em-dash-an-en-dash-and-a-hyphen)
